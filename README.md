@@ -1,6 +1,6 @@
 <h1 align="center"> Hey there, I'm Sriram👋 </h1>
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*DOD1x5f5yDa0UJhTulejkg.jpeg&f=1&nofb=1" />
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*DOD1x5f5yDa0UJhTulejkg.jpeg&f=1&nofb=1" align="center"/>
 
 <h3 align="left">Github Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msris108&show_icons=true&locale=en&layout=compact" alt="msris108" /></p>
