@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Sriram M
 
-- Thanks for dropping by! I'm a Computer Science Undergrad with expertise in technical data science and full-stack web development.
+- Thanks for dropping by! I'm a Software Development Engineer with expertise in full-stack web development.
 - An avid learner and driven doer with a bias towards action, I enjoy seeking and solving meaningful problems with tech and data.
 - I welcome you to join me on a learning journey! Follow me on [GitHub](https://github.com/msris108), [Medium](https://msris108.medium.com) and [LinkedIn](https://linkedin.com/in/msris108).
 - You can find my portfolio below, where I've listed my projects. Feel free to reach out for a chat on topics common to both of us!
